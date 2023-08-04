@@ -1,0 +1,50 @@
+.pagination{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.back{
+    color: #474955;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.next{
+    color: #474955;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.page{
+    color: #474955;
+    font-size: 18px;
+    font-weight: 700;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.last-page{
+    color: #474955;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.wrapper-page{
+    display: flex;
+}
+
+.active{
+    color: #7EBC3C;
+}
+
+@media (max-width: 480px) {
+    .page{
+        margin-right: 9px;
+    }
+}

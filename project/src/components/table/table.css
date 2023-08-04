@@ -1,0 +1,23 @@
+.table>:not(caption)>*>*.col-head{
+    background: #474955;
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    padding: 0.9rem .5rem;
+    cursor: pointer;
+}
+
+.table>:not(caption)>*>*.line{
+   border-right: solid 1px #E3E6EC;
+    vertical-align: middle;
+    color: #474955;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.table>:not(caption)>*>*.line:first-child{
+    border-left: solid 1px #E3E6EC;
+    text-align: center;
+}

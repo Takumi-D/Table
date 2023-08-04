@@ -1,0 +1,19 @@
+.search{
+    height: 52px;
+    max-width: 631px;
+    width: 100%;
+    border: solid 1px #000000;
+    border-radius: 0;
+    background-color: #5A5C66;
+}
+
+.search::placeholder{
+    color: #B2B7BF;
+}
+.container-fluid{
+    padding: 0;
+}
+
+.navbar{
+    padding: 23px 0 15px 0;
+}
