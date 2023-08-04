@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IRLIXpub/static/css/main.30b0af6a.css",
+    "main.js": "/IRLIXpub/static/js/main.0c768bd7.js",
+    "index.html": "/IRLIXpub/index.html",
+    "main.30b0af6a.css.map": "/IRLIXpub/static/css/main.30b0af6a.css.map",
+    "main.0c768bd7.js.map": "/IRLIXpub/static/js/main.0c768bd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30b0af6a.css",
+    "static/js/main.0c768bd7.js"
+  ]
+}
